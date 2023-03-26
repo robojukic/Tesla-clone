@@ -12,7 +12,7 @@ function Header() {
   return (
     <Container>
       <a>
-        <img src="/images/logo.svg" />
+        <img src={process.env.PUBLIC_URL + "/images/logo.svg"} />
       </a>
       <Menu>
         {cars &&
