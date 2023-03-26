@@ -49,10 +49,13 @@ function Header() {
           <a href="">Trade-in</a>
         </li>
         <li>
-          <a href="">Existing </a>
+          <a href="">Cybertruck</a>
         </li>
         <li>
-          <a href="">Existing inventory</a>
+          <a href="">Roadster</a>
+        </li>
+        <li>
+          <a href="">Test Drive</a>
         </li>
       </BurgerNav>
     </Container>
